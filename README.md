@@ -123,17 +123,6 @@ webdemotwo/
 └── LICENSE                 # Licencia del proyecto
 ```
 
-## 🎨 Paleta de Colores
-
-| Elemento        | Color                                                               | Uso Principal          |
-| --------------- | ------------------------------------------------------------------- | ---------------------- |
-| Primario        | ![#667eea](https://via.placeholder.com/15/667eea/000000?text=+) #667eea | Elementos principales |
-| Secundario      | ![#764ba2](https://via.placeholder.com/15/764ba2/000000?text=+) #764ba2 | Acentos y highlights  |
-| Acento          | ![#f093fb](https://via.placeholder.com/15/f093fb/000000?text=+) #f093fb | Llamadas a la acción  |
-| Texto Oscuro    | ![#2d3748](https://via.placeholder.com/15/2d3748/000000?text=+) #2d3748 | Texto principal       |
-| Texto Claro     | ![#edf2f7](https://via.placeholder.com/15/edf2f7/000000?text=+) #edf2f7 | Texto sobre oscuro    |
-| Fondo Claro     | ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) #ffffff | Fondo principal       |
-| Fondo Oscuro    | ![#1a202c](https://via.placeholder.com/15/1a202c/000000?text=+) #1a202c | Secciones oscuras     |
 
 ## 💻 Fragmentos de Código Destacados
 
@@ -340,25 +329,8 @@ Puedes:
 - ✅ Uso privado
 
 Condiciones:
-- 📝 Incluir el copyright original
 - 📝 Incluir la licencia MIT
 
-## 👨‍💻 Autor
-
-**Ángel Guamán**
-
-- 🎓 Estudiante de  Tecnologías de la Información
-- 🌍 Ecuador
-- 💼 GitHub: [@apgtest](https://github.com/apgtest)
-
-
-## 🙏 Agradecimientos
-
-- A la comunidad de desarrollo web por sus recursos
-- A GitHub por el hosting gratuito con GitHub Pages
-- A todos los que visiten y usen este proyecto
-
----
 
 ## 📈 Estado del Proyecto
 
@@ -374,7 +346,7 @@ Este proyecto está siendo continuamente mejorado. Revisa las actualizaciones fr
 
 ### ⭐ Si este proyecto te fue útil, considera darle una estrella ⭐
 
-**Hecho con ❤️ y mucho ☕ por [Ángel Guamán](https://github.com/apgtest)**
+
 
 </div>
 
